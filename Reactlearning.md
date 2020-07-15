@@ -1,6 +1,6 @@
                                                                 React Learning Path
 
-Fundamentals                                            
+# Fundamentals                                            
     1. Create React App
     2. Functional Components
     3. Class Components
@@ -12,7 +12,7 @@ Fundamentals
     9. Lists and Keys
     10.Building Simple Forms
 
-Advanced Topics 
+# Advanced Topics 
     1. Context - Solves the problem of prop related
     2. Higher Order Components 
     3. Render Props
@@ -22,7 +22,7 @@ Advanced Topics
     7. HTTP Requests  
             1. GET
             2. POST
-Hooks
+# Hooks
    1. useContext
    2. useReducer
    3. useRef
@@ -30,10 +30,11 @@ Hooks
    5. useCallback
    6. Custom Hooks
 
-Ecosystem
+# Ecosystem
+
     1. State Management 
-           1.1 Redux/Mobx
-           1.2 Appolo Client -> If we're using graphql 
+           1.1. Redux/Mobx
+           1.2. Appolo Client (If we're using graphql)
             
     2. Routing
             2.1.  React Routing
