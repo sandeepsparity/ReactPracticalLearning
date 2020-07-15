@@ -37,7 +37,7 @@
            1.2. Appolo Client (If we're using graphql)
             
     2. Routing
-            2.1.  React Routing
+            2.1. React Routing
             
     3. Styling
             3.1. Styled Components / Emotion
@@ -56,8 +56,8 @@
            5.5  Practical React Libraries
 
    # Next Steps
-         Gatsby
-         Next
-         React Native
+           1.   Gatsby
+           2.   Next
+           3.   React Native
 
 
