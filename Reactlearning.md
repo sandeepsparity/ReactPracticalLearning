@@ -1,4 +1,4 @@
-                                                                React Learning Path
+# React Learning Path
 
 # Fundamentals                                            
     1. Create React App
