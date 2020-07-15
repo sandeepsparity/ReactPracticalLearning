@@ -55,7 +55,7 @@
            5.4. Firebase
            5.5  Practical React Libraries
 
-    Next Steps
+   # Next Steps
          Gatsby
          Next
          React Native
